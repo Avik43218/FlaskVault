@@ -64,4 +64,4 @@ A secure and customizable social media platform built with Flask. This app integ
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE).
