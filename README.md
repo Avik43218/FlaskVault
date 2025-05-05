@@ -21,6 +21,16 @@ A secure and customizable social media platform built with Flask. This app integ
 - **Database**: SQLite (for now)
 - **Security**: Flask-Limiter, Timed JSON Web Tokens, bcrypt
 
+## Screenshots 
+
+![1](./Screenshots/Capture_210.PNG)
+![1](./Screenshots/Capture_211.PNG)
+![1](./Screenshots/Capture_212.PNG)
+![1](./Screenshots/Capture_214.PNG)
+![1](./Screenshots/Capture_215.PNG)
+![1](./Screenshots/Capture_216.PNG)
+
+
 ## Getting Started
 
 1. Clone the repository:
@@ -49,9 +59,6 @@ A secure and customizable social media platform built with Flask. This app integ
 - Password reset links are secured via timed tokens
 - Profile images are resized and sanitized before storage
 
-## Screenshots 
-
-[1](./Screenshots/Capture_210.png)
 
 ## Future Plans
 
