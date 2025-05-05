@@ -23,6 +23,7 @@ A secure and customizable social media platform built with Flask. This app integ
 
 ## Screenshots 
 
+**Home Page (Light Theme)**
 ![1](./Screenshots/Capture_210.PNG)
 ![1](./Screenshots/Capture_211.PNG)
 ![1](./Screenshots/Capture_212.PNG)
