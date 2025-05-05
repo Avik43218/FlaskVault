@@ -49,6 +49,10 @@ A secure and customizable social media platform built with Flask. This app integ
 - Password reset links are secured via timed tokens
 - Profile images are resized and sanitized before storage
 
+## Screenshots 
+
+[1](./Screenshots/Capture_210.png)
+
 ## Future Plans
 
 - Full-featured dashboard with stats and insights
