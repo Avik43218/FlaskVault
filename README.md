@@ -24,17 +24,17 @@ A secure and customizable social media platform built with Flask. This app integ
 ## Screenshots 
 
 **Home Page (Light Theme)**
-![1](./Screenshots/Capture_210.PNG)
+![1](./Screenshots/Capture_210.PNG) <br />
 **Home Page (Dark Theme)**
-![1](./Screenshots/Capture_214.PNG)
+![1](./Screenshots/Capture_214.PNG) <br />
 **Account Page**
-![1](./Screenshots/Capture_212.PNG)
+![1](./Screenshots/Capture_212.PNG) <br />
 **New Post Page**
-![1](./Screenshots/Capture_211.PNG)
+![1](./Screenshots/Capture_211.PNG) <br />
 **Post Details Page**
-![1](./Screenshots/Capture_215.PNG)
+![1](./Screenshots/Capture_215.PNG) <br />
 **Delete Post Modal**
-![1](./Screenshots/Capture_216.PNG)
+![1](./Screenshots/Capture_216.PNG) <br />
 
 
 ## Getting Started
