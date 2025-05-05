@@ -1,0 +1,11 @@
+
+blog/__pycache__/ 
+instance/ 
+blog/static/profile/ 
+blog/customValidation/__pycache__/
+blog/errors/__pycache__/
+blog/main/__pycache__/
+blog/manageUserPasswd/__pycache__/
+blog/posts/__pycache__/
+blog/users/__pycache__/
+blog/manageUserPasswd/users.json
