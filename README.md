@@ -48,20 +48,20 @@ A secure and customizable social media platform built with Flask. This app integ
    ```bash
    git clone https://github.com/avik43218/flaskvault.git
    cd flaskvault
-```
+
 2. Create and activate a virtual environment:
    ```bash
    python -m venv venv
    source venv/bin/activate   # on Windows use venv/Scripts/activate
-```
+
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
-```
+
 4. Run the app:
    ```bash
    flask run
-```
+
 
 ## Security Notes
 
